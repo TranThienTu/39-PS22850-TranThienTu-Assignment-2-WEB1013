@@ -1,0 +1,29 @@
+.box1 {
+    position: relative;
+    background-color: white;
+    border: 1px solid gainsboro;
+    height: 300px;
+    width: 187px;  
+    float: left;
+    top: -93px;
+}
+.box1:hover {
+    color: aqua;
+    top: -90px;
+}
+.box2 {
+    position: relative;
+    background-color: white;
+    border: 1px solid gainsboro;
+    height: 300px;
+    width: 187px; 
+    float: left; 
+    top: -93px;
+}
+.box2:hover {
+    color: aqua;
+    top: -90px;
+    }
+a {
+    color: black;
+}
